@@ -1,6 +1,7 @@
 ---
 layout: channel
 title: algorithms
+permalink: /algorithms
 ---
 
 ### Code challenge sites
