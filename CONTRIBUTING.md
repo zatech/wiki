@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Thanks for taking an interest in contributing to the ZATech Wiki! For starters, make sure you're already familar with the group's [Code of Conduct](https://github.com/zatech/code-of-conduct).
+Thanks for taking an interest in contributing to the ZATech Wiki! For starters, make sure you're already familiar with the group's [Code of Conduct](https://github.com/zatech/code-of-conduct).
 
-The rough goal of this wiki is to document some of the "institutional knowledge" of the various channels. Often questions are repeated frequently and the ephemeral nature of chat makes it hard to refrence previous answer, this is a great plate to document such things.
+The rough goal of this wiki is to document some of the "institutional knowledge" of the various channels. Often questions are repeated frequently and the ephemeral nature of chat makes it hard to reference previous answer, this is a great plate to document such things.
 
 ## Jekyll
 
