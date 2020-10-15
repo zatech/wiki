@@ -1,3 +1,8 @@
+---
+layout: channel
+title: writing-technical
+permalink: /writing-technical
+---
 A place for writers, especially those writing guides, tutorials and similar but everyone is very welcome!
 
 We do talks and meetups occasionally to talk about writing and give feedback on each other's drafts.
