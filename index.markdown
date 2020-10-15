@@ -12,3 +12,4 @@ Hello! This is the work in progress ZATech Wiki. If you'd like to contribute ple
 * [#algorithms]({% link algorithms.markdown %})
 * [#jobpostings]({% link jobpostings.markdown %})
 * [#movies-and-tv]({% link movies-and-tv.markdown %})
+* [#writing-technical]({% link writing-technical.markdown %})
