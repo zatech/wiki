@@ -24,7 +24,7 @@ Suggested extra info
 * Salary or at least a salary range
 * Link to a web posting with more details
 
-If you're really sold on writing an essay, pleasemake a slack snippet.
-That way it folds up and doesn't blaot the channel.
+If you're really sold on writing an essay, please make a slack snippet.
+That way it folds up and doesn't bloat the channel.
 
 (Obviously it goes without saying that professional recruitment is not allowed, please see the [Code of Conduct](https://github.com/zatech/code-of-conduct) if you're unsure)
