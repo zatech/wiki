@@ -8,8 +8,7 @@ To post a job opportunity in #freelance-jobpostings you need to use the "Post a 
 
 ![Workflow freelance jobposting](/images/faq/freelance-job-posting-workflow.png)
 
-Once the form has been submitted a request will be sent to the admins for approval.
+Once the form has been submitted a request will be sent to the approval team.
 
 Please note that according to the [Code of Conduct](https://github.com/zatech/code-of-conduct) that professional recruiting is not allowed.
-
 
