@@ -4,7 +4,7 @@ title: How do I post a freelance job opportunity?
 permalink: /faqs/howtojobpost-freelance
 ---
 
-To post a job opportunity in #freelance-jobpostings you need to use the "Post a Job" workflow. To do this click the ⚡️ icon next to the input bar and fill in the form.
+To post a job opportunity in #freelance-jobpostings you need to use the "Post a Freelance Job" workflow. To do this click the ⚡️ icon next to the input bar and fill in the form.
 
 ![Workflow freelance jobposting](/images/faq/freelance-job-posting-workflow.png)
 
