@@ -31,6 +31,9 @@ github_username: zatech
 # theme: minima
 remote_theme: riggraz/no-style-please
 
+kramdown:
+  hard_wrap: true
+
 plugins:
   - jekyll-remote-theme
 
