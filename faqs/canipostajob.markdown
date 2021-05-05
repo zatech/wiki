@@ -1,5 +1,5 @@
 ---
-layout: page-wide
+layout: page
 title: Am I allowed to post a job opportunity?
 permalink: /faqs/canipostajob
 ---
