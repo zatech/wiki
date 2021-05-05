@@ -2,18 +2,16 @@
 layout: page
 title: Am I allowed to post a job opportunity?
 permalink: /faqs/wheredoipostmyjob
+isJobposting: true
 ---
 
 Follow this helpful flow chart to see where you should post your job.
 
 ![Where should I post my job?](/images/faq/where-should-i-post-my-job.jpg)
-
-<br>
+{: .img-bottom-margin}
 
 If you're not sure how to post your job, check out:
 
 [How to post to #jobpostings]({% link faqs/howtojobpost.markdown %})
 
 [How to post to #freelance-jobpostings]({% link faqs/howtojobpost-freelance.markdown %})
-
-{% include_relative jobposting-footer.markdown %}

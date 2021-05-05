@@ -2,6 +2,7 @@
 layout: page
 title: How do I post a freelance job opportunity?
 permalink: /faqs/howtojobpost-freelance
+isJobposting: true
 ---
 
 Firstly make sure that both:
@@ -13,5 +14,3 @@ To post a job opportunity in #freelance-jobpostings you need to use the "Post a 
 ![Workflow freelance jobposting](/images/faq/freelance-job-posting-workflow.png)
 
 Once the form has been submitted a request will be sent to the approval team.
-
-{% include_relative jobposting-footer.markdown %}

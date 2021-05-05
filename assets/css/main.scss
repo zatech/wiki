@@ -3,10 +3,21 @@
 
 @import "no-style-please";
 
-.w {
+.w
+{
   width: fit-content;
   width: 50%;
   max-width: 50%;
   margin: 0 auto;
   padding: 4rem 2rem;
+}
+
+.footer
+{
+	margin-top: 100px;
+}
+
+.img-bottom-margin
+{
+	margin-bottom: 100px;
 }
