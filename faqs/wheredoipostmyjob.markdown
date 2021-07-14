@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Am I allowed to post a job opportunity?
+title: Where do I post my job opportunity?
 permalink: /faqs/wheredoipostmyjob
 ---
 
