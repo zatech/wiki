@@ -1,7 +1,7 @@
 ---
 layout: channel
-title: writing-technical
-permalink: /writing-technical
+title: writing
+permalink: /writing
 ---
 A place for writers, especially those writing guides, tutorials and similar but everyone is very welcome!
 
