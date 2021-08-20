@@ -6,7 +6,7 @@ permalink: /private-channels
 
 ## Overview
 
-Over time a few private channels (either invite only, or invite on request) have sprung up. These are usually formed around a topic that is verboten for public discussion, though not illegal or otherwise banned.
+Over time a few private channels (either invite only, or invite on request) have sprung up. These are often formed around more controversial or divisive topics, and want to avoid the oversight that the moderation team carries out in public channels.
 
 This page serves as a directory of such channels, with links to the threads in which one can request an invite.
 
