@@ -15,7 +15,7 @@ This page contains mainly a list of payment providers, but also information abou
 ### PayStack
 
 - Owned by Stripe
-- Supports sole proprietor
+- Supports sole proprietors
 - USD billing coming Soon(TM)
 
 ### PayFast
@@ -32,12 +32,18 @@ This page contains mainly a list of payment providers, but also information abou
 
 - Provides Merchant of Record services
 - Can handle tax compliance for you
+- Pricey (5% + $ 50c per transaction)
 
 ### Gumroad 
 
 - Only pays out to ZA via PayPal
 
 ### LemonSqueezy
+
+- Provides Merchant of Record services
+- Pays out via bank transfer every Friday to any account (including sole proprietors) or to PayPal
+- Can handle tax compliance for you
+- Cheaper than paddle (monthly price tiers, then 3.5% + $ 30c per transaction)
 
 ## providers by featue / use cases
 
