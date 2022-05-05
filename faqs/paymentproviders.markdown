@@ -38,12 +38,12 @@ This page contains mainly a list of payment providers, but also information abou
 
 - Only pays out to ZA via PayPal
 
-### LemonSqueezy
+### Lemon Squeezy
 
 - Provides Merchant of Record services
 - Pays out via bank transfer every Friday to any account (including sole proprietors) or to PayPal
 - Can handle tax compliance for you
-- Cheaper than paddle (monthly price tiers, then 3.5% + $ 30c per transaction)
+- Cheaper than Paddle (monthly price tiers, then 3.5% + $ 30c per transaction)
 
 ## providers by featue / use cases
 
