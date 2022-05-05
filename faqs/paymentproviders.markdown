@@ -12,15 +12,30 @@ This page contains mainly a list of payment providers, but also information abou
 
 ## Providers
 
+### PayStack
+
+- Owned by Stripe
+- Supports sole proprietor
+- USD billing coming Soon(TM)
+
 ### PayFast
+
+- Supports sole proprietors
 
 ### Peach Payments
 
 ### PayPal
 
+- Only works with FNB
+
 ### Paddle
 
+- Provides Merchant of Record services
+- Can handle tax compliance for you
+
 ### Gumroad 
+
+- Only pays out to ZA via PayPal
 
 ### LemonSqueezy
 
