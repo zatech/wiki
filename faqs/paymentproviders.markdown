@@ -12,36 +12,36 @@ This page contains mainly a list of payment providers, but also information abou
 
 ## Providers
 
-### PayStack
+### [PayStack](https://paystack.com/za/)
 
 - Owned by Stripe
 - Supports sole proprietors
 - USD billing coming Soon(TM)
 
-### PayFast
+### [PayFast](https://www.payfast.co.za/)
 
 - Supports sole proprietors
 
-### Peach Payments
+### [Peach Payments](https://www.peachpayments.com/)
 
 - Supports subscription payments and recurring payments for WooCommerce, Magento and custom integrations (via their API or mobile SDK).
 - Reasonable pricing for non-enterprise (2.95% + R1.50 per transaction)
 
-### PayPal
+### [PayPal](https://www.paypal.com/za/home)
 
 - Only works with FNB
 
-### Paddle
+### [Paddle](http://paddle.com/)
 
 - Provides Merchant of Record services
 - Can handle tax compliance for you
 - Pricey (5% + $ 50c per transaction)
 
-### Gumroad 
+### [Gumroad](https://gumroad.com/) 
 
 - Only pays out to ZA via PayPal
 
-### Lemon Squeezy
+### [Lemon Squeezy](https://www.lemonsqueezy.com/)
 
 - Provides Merchant of Record services
 - Pays out via bank transfer every Friday to any account (including sole proprietors) or to PayPal
