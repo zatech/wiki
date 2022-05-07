@@ -24,6 +24,9 @@ This page contains mainly a list of payment providers, but also information abou
 
 ### Peach Payments
 
+- Supports subscription payments and recurring payments for WooCommerce, Magento and custom integrations (via their API or mobile SDK).
+- Reasonable pricing for non-enterprise (2.95% + R1.50 per transaction)
+
 ### PayPal
 
 - Only works with FNB
@@ -45,7 +48,7 @@ This page contains mainly a list of payment providers, but also information abou
 - Can handle tax compliance for you
 - Cheaper than Paddle (monthly price tiers, then 3.5% + $ 30c per transaction)
 
-## providers by featue / use cases
+## providers by feature / use cases
 
 ### billing in USD but receiving ZAR
 
