@@ -29,23 +29,34 @@ This page contains mainly a list of payment providers, but also information abou
 
 ### [PayPal](https://www.paypal.com/za/home)
 
-- Only works with FNB
+- Works with FNB
+- Can be withdrawn via Wise (by opening a USD Wise account)
+- Fees: 4.5% + 49c (for South Africans)
 
 ### [Paddle](http://paddle.com/)
 
 - Provides Merchant of Record services
+- Charge in local currency
+- Localized pricing (nice)
 - Can handle tax compliance for you
-- Pricey (5% + $ 50c per transaction)
+- Requires (potentially lengthly) approval
+- Fees: 5% + $ 50c per transaction
 
 ### [Gumroad](https://gumroad.com/) 
 
-- Only pays out to ZA via PayPal
+- Pays out to ZA via PayPal (Gumroad swallows the PayPal deposit fee)
+- Can handle tax compliance for you
+- License key distribution and validation
+- Store page for digital products
+- Fees: [Variable fees](https://gumroad.com/pricing) according to volume from 2.9% + 30c to 9% + 30c per transaction
 
 ### [Lemon Squeezy](https://www.lemonsqueezy.com/)
 
 - Provides Merchant of Record services
 - Pays out via bank transfer every Friday to any account (including sole proprietors) or to PayPal
 - Can handle tax compliance for you
+- License key distribution and validation
+- Store page for digital products
 - Cheaper than Paddle (monthly price tiers, then 3.5% + $ 30c per transaction)
 
 ## providers by feature / use cases
