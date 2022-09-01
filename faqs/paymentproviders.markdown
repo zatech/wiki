@@ -59,6 +59,11 @@ This page contains mainly a list of payment providers, but also information abou
 - Store page for digital products
 - Cheaper than Paddle (monthly price tiers, then 3.5% + $ 30c per transaction)
 
+### [Klasha](https://klasha.com)
+
+- Supports charging to card in USD for ZA companies
+- Includes low/no-code and CMS integrations
+
 ## providers by feature / use cases
 
 ### billing in USD but receiving ZAR
