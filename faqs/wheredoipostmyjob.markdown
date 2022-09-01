@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Am I allowed to post a job opportunity?
+title: Where do I post my job opportunity?
 permalink: /faqs/wheredoipostmyjob
 isJobposting: true
 ---
@@ -15,3 +15,5 @@ If you're not sure how to post your job, check out:
 [How to post to #jobpostings]({% link faqs/howtojobpost.markdown %})
 
 [How to post to #freelance-jobpostings]({% link faqs/howtojobpost-freelance.markdown %})
+
+{% include_relative jobposting-footer.markdown %}

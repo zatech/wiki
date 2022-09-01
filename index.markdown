@@ -8,8 +8,9 @@ Hello! This is the work in progress ZATech Wiki. If you'd like to contribute ple
 
 ## Channel pages
 
+* [Private channels]({% link private-channels.markdown %})
 * [#announcements]({% link faqs/howtoannounce.markdown %})
 * [#algorithms]({% link algorithms.markdown %})
 * [#jobpostings]({% link jobpostings.markdown %})
 * [#movies-and-tv]({% link movies-and-tv.markdown %})
-* [#writing-technical]({% link writing-technical.markdown %})
+* [#writing]({% link writing.markdown %})
