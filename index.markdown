@@ -11,6 +11,7 @@ Hello! This is the work in progress ZATech Wiki. If you'd like to contribute ple
 * [Private channels]({% link private-channels.markdown %})
 * [#announcements]({% link faqs/howtoannounce.markdown %})
 * [#algorithms]({% link algorithms.markdown %})
+* [#loadshedding]({% link loadshedding.markdown %})
 * [#jobpostings]({% link jobpostings.markdown %})
 * [#movies-and-tv]({% link movies-and-tv.markdown %})
 * [#writing]({% link writing.markdown %})
