@@ -64,6 +64,12 @@ This page contains mainly a list of payment providers, but also information abou
 - Supports charging to card in USD for ZA companies
 - Includes low/no-code and CMS integrations
 
+### [Yoco](https://www.yoco.com)
+
+- POS machines and online payments
+- Does not support subscriptions (https://support.yoco.help/s/article/Gateway-FAQs)
+- ZAR only
+
 ## providers by feature / use cases
 
 ### billing in USD but receiving ZAR
