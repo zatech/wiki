@@ -1,5 +1,7 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+/build_*/
+/node_modules/
+/vendor/
+/source/assets/build/
+/cache
+.env
+npm-debug.log

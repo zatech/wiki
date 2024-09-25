@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "mix",
+        "watch": "mix watch",
+        "prod": "mix --production"
+    },
+    "devDependencies": {
+        "@picocss/pico": "^2.0.6",
+        "browser-sync": "^2.27.4",
+        "browser-sync-webpack-plugin": "^2.3.0",
+        "fast-glob": "^3.2.12",
+        "laravel-mix": "^6.0.39",
+        "laravel-mix-jigsaw": "^2.0.0",
+        "postcss": "^8.4.21",
+        "postcss-import": "^14.0.2"
+    }
+}
