@@ -1,0 +1,11 @@
+@import '@picocss/pico';
+
+@media (min-width: 992px) {
+    .main {
+        width: fit-content;
+        width: 50%;
+        max-width: 50%;
+        margin: 0 auto;
+        padding: 4rem 2rem;
+    }
+}

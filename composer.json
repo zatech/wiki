@@ -1,0 +1,12 @@
+{
+    "require": {
+        "tightenco/jigsaw": "^1.7",
+        "tightenco/jigsaw-docs-template": "^1.2",
+        "samdark/sitemap": "^2.2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Listeners\\": "listeners/"
+        }
+    }
+}
