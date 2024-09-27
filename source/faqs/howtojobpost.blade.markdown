@@ -9,7 +9,7 @@ Firstly make sure that both:
 * [I'm allowed to post a job](/faqs/canipostajob)
 * [I'm in the right place to post my job](/faqs/wheredoipostmyjob)
 
-To post a job opportunity in [#jobpostings](https://zatech.slack.com/archives/C1RAZB24S) you need to use **[Sboj.dev](https://sboj.dev)**.
+To post a job opportunity in [#jobpostings](https://zatech.slack.com/archives/C1RAZB24S) you need to use **[Sboj.dev](https://sboj.dev/zatech)**.
 
 Make sure you sign up as an "Employer". Create a new "Seeking Role" entry, add all the relevant details, connect your Slack account and submit it for approval.
 
