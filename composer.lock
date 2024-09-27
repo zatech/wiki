@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e2e6bf155581a282eada142a2fe4cd19",
+    "content-hash": "e30e417321648ac8d01a967376f4406c",
     "packages": [
         {
             "name": "carbonphp/carbon-doctrine-types",
@@ -243,26 +243,26 @@
         },
         {
             "name": "filp/whoops",
-            "version": "2.15.4",
+            "version": "2.16.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/filp/whoops.git",
-                "reference": "a139776fa3f5985a50b509f2a02ff0f709d2a546"
+                "reference": "befcdc0e5dce67252aa6322d82424be928214fa2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/filp/whoops/zipball/a139776fa3f5985a50b509f2a02ff0f709d2a546",
-                "reference": "a139776fa3f5985a50b509f2a02ff0f709d2a546",
+                "url": "https://api.github.com/repos/filp/whoops/zipball/befcdc0e5dce67252aa6322d82424be928214fa2",
+                "reference": "befcdc0e5dce67252aa6322d82424be928214fa2",
                 "shasum": ""
             },
             "require": {
-                "php": "^5.5.9 || ^7.0 || ^8.0",
+                "php": "^7.1 || ^8.0",
                 "psr/log": "^1.0.1 || ^2.0 || ^3.0"
             },
             "require-dev": {
-                "mockery/mockery": "^0.9 || ^1.0",
-                "phpunit/phpunit": "^4.8.36 || ^5.7.27 || ^6.5.14 || ^7.5.20 || ^8.5.8 || ^9.3.3",
-                "symfony/var-dumper": "^2.6 || ^3.0 || ^4.0 || ^5.0"
+                "mockery/mockery": "^1.0",
+                "phpunit/phpunit": "^7.5.20 || ^8.5.8 || ^9.3.3",
+                "symfony/var-dumper": "^4.0 || ^5.0"
             },
             "suggest": {
                 "symfony/var-dumper": "Pretty print complex values better with var-dumper available",
@@ -302,7 +302,7 @@
             ],
             "support": {
                 "issues": "https://github.com/filp/whoops/issues",
-                "source": "https://github.com/filp/whoops/tree/2.15.4"
+                "source": "https://github.com/filp/whoops/tree/2.16.0"
             },
             "funding": [
                 {
@@ -310,7 +310,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-11-03T12:00:00+00:00"
+            "time": "2024-09-25T12:00:00+00:00"
         },
         {
             "name": "graham-campbell/result-type",
@@ -376,7 +376,7 @@
         },
         {
             "name": "illuminate/bus",
-            "version": "v11.24.0",
+            "version": "v11.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/bus.git",
@@ -429,16 +429,16 @@
         },
         {
             "name": "illuminate/collections",
-            "version": "v11.24.0",
+            "version": "v11.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/collections.git",
-                "reference": "f205537e0ad131a1a87cb3cf04924e9edda4f2b1"
+                "reference": "465044f988f9a07c901388beeb15201d711387aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/collections/zipball/f205537e0ad131a1a87cb3cf04924e9edda4f2b1",
-                "reference": "f205537e0ad131a1a87cb3cf04924e9edda4f2b1",
+                "url": "https://api.github.com/repos/illuminate/collections/zipball/465044f988f9a07c901388beeb15201d711387aa",
+                "reference": "465044f988f9a07c901388beeb15201d711387aa",
                 "shasum": ""
             },
             "require": {
@@ -480,11 +480,11 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2024-09-16T14:32:15+00:00"
+            "time": "2024-09-25T15:08:32+00:00"
         },
         {
             "name": "illuminate/conditionable",
-            "version": "v11.24.0",
+            "version": "v11.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/conditionable.git",
@@ -530,7 +530,7 @@
         },
         {
             "name": "illuminate/console",
-            "version": "v11.24.0",
+            "version": "v11.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/console.git",
@@ -596,7 +596,7 @@
         },
         {
             "name": "illuminate/container",
-            "version": "v11.24.0",
+            "version": "v11.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/container.git",
@@ -647,7 +647,7 @@
         },
         {
             "name": "illuminate/contracts",
-            "version": "v11.24.0",
+            "version": "v11.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/contracts.git",
@@ -695,7 +695,7 @@
         },
         {
             "name": "illuminate/events",
-            "version": "v11.24.0",
+            "version": "v11.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/events.git",
@@ -750,7 +750,7 @@
         },
         {
             "name": "illuminate/filesystem",
-            "version": "v11.24.0",
+            "version": "v11.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/filesystem.git",
@@ -817,7 +817,7 @@
         },
         {
             "name": "illuminate/macroable",
-            "version": "v11.24.0",
+            "version": "v11.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/macroable.git",
@@ -863,7 +863,7 @@
         },
         {
             "name": "illuminate/pipeline",
-            "version": "v11.24.0",
+            "version": "v11.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/pipeline.git",
@@ -911,16 +911,16 @@
         },
         {
             "name": "illuminate/support",
-            "version": "v11.24.0",
+            "version": "v11.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
-                "reference": "f1bcdb2205223a70f01ec1750669689154037444"
+                "reference": "ead1796b74be915705e66a695fce8d3cd4bb9034"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/support/zipball/f1bcdb2205223a70f01ec1750669689154037444",
-                "reference": "f1bcdb2205223a70f01ec1750669689154037444",
+                "url": "https://api.github.com/repos/illuminate/support/zipball/ead1796b74be915705e66a695fce8d3cd4bb9034",
+                "reference": "ead1796b74be915705e66a695fce8d3cd4bb9034",
                 "shasum": ""
             },
             "require": {
@@ -983,11 +983,11 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2024-09-17T15:56:18+00:00"
+            "time": "2024-09-25T07:16:58+00:00"
         },
         {
             "name": "illuminate/view",
-            "version": "v11.24.0",
+            "version": "v11.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/view.git",

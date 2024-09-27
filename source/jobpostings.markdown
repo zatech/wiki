@@ -12,8 +12,6 @@ We have a jobposting tool which will format a post nicely for you, see the "[How
 
 ## Guidelines:
 
-All descriptions will likely be broken up into blocks of 2500 characters, we'd recommend you keep it to within that to ensure that prospective candiates read the whole description
-
 A great description tries to do the following:
 
 * Pitch the applicant on what work they'll do in the job
