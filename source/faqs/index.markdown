@@ -10,4 +10,4 @@ title: Frequently Asked Questions
 * [Where should I post the job opportunity?](/faqs/wheredoipostmyjob)
 * [How do I post a job opportunity?](/faqs/howtojobpost)
 * [How do I post a freelance job opportunity?](/faqs/howtojobpost-freelance)
-* [Which Payment Provider should I use](/faqs/paymentsproviders)
+* [Which Payment Provider should I use](/faqs/paymentproviders)
