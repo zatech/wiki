@@ -5,6 +5,7 @@ title: How do I post a freelance job opportunity?
 ---
 
 Firstly make sure that both:
+
 * [I'm allowed to post a job](/faqs/canipostajob)
 * [I'm in the right place to post my job](/faqs/wheredoipostmyjob)
 
