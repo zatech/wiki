@@ -5,7 +5,11 @@ title: How do I post a community announcement?
 back: /faqs/
 ---
 
-To have an announcement posted in `#announcements-community` you need to use the "Announce your Event" workflow. To do this click the ⚡️ icon next to the input bar and fill in the form.
+To have an announcement posted in `#announcements-community` you need to use the "Announce your Event" workflow. To do this
+
+* Navigate to `#announcements-community`
+* Click 'workflows'
+* Click the play icon on 'Announce your event'
 
 ![Workflow Announcements Community](/images/faq/announcements-community-workflow.png)
 
