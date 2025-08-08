@@ -7,6 +7,7 @@ title: Welcome
 Hello! This is the work in progress ZATech Wiki. If you'd like to contribute please do so over on the [GitHub repo](https://github.com/zatech/zatech.github.io).
 
 ### [Frequently Asked Questions](/faqs/)
+### [Commercial channels](/commercial-channels/)
 
 ## Channel pages
 
