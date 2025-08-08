@@ -12,7 +12,7 @@ ZATech does not allow commercial activity on our Slack workspace, with narrow ex
 
 ### Job-related channels
 
-**#jobpostings** - This channel is exclusively for advertising full-time jobs. All job postings must be submitted through [sboj.co.za](https://sboj.co.za). These positions should be standard full-time employment opportunities under the standard employment conditions in the relevant country (usually South Africa).
+**#jobpostings** - This channel is exclusively for advertising full-time jobs. All job postings must be submitted through [sboj.dev](https://sboj.dev). These positions should be standard full-time employment opportunities under the standard employment conditions in the relevant country (usually South Africa).
 
 **#freelance-jobpostings** - All other job offers belong in this channel. This includes positions for contractors, freelancers, part-time work, co-founders, interns, or if you are looking for help from another business or agency.
 
@@ -30,4 +30,4 @@ ZATech does not allow commercial activity on our Slack workspace, with narrow ex
 
 ## Important notes
 
-All commercial activity outside of these designated channels is prohibited. Please respect these guidelines to maintain the quality and focus of our community discussions. If you are unsure about where to post something, please review the channel descriptions or ask in #general for guidance.
+All commercial activity outside of these designated channels is prohibited. Please respect these guidelines to maintain the quality and focus of our community discussions. If you are unsure about where to post something, please review the channel descriptions or ask in #how-to-zatech for guidance.
