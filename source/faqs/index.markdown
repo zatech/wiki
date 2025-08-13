@@ -11,3 +11,4 @@ title: Frequently Asked Questions
 * [How do I post a job opportunity?](/faqs/howtojobpost)
 * [How do I post a freelance job opportunity?](/faqs/howtojobpost-freelance)
 * [Which Payment Provider should I use](/faqs/paymentproviders)
+* [How do I create a Slack like this one?](/faqs/howtocreateslack)
